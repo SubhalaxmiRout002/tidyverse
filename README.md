@@ -1,3 +1,6 @@
-# tidyverse
-# Tidyverse changed file (3/14/2020, time: 7:56 PM)
-# file changed 8PM
+## Tidyverse Extend:
+
+Author: Subhalaxmi Rout, Extended tidyverse assignment from Manolis Manoli’s assignment. Assignment shows examples of stringr, tidyr, tibble and ggplot.
+
+RPUB link
+https://rpubs.com/Subhalaxmi/601580
